@@ -32,7 +32,7 @@ TODO — unit and UI test instructions
 
 ## Related repositories
 
-* roamly-backend
-* roamly-flutter
-* roamly-android
+* [roamly-backend](https://github.com/Tahani50/roamly-backend) — Backend API and data layer
+* [roamly-flutter](https://github.com/Tahani50/roamly-flutter) — Cross-platform app built with Flutter
+* [roamly-android](https://github.com/Tahani50/roamly-android) — Native Android app built with Kotlin / Jetpack Compose
 
